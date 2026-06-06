@@ -266,29 +266,6 @@ http://localhost/auction-system/
 * SQL Injection Prevention
 * Prepared Statements
 * Secure File Upload Handling
-
----
-
-## 📸 Screenshots
-
-Add screenshots here:
-
-### Login Page
-
-![Login](screenshots/login.png)
-
-### Buyer Dashboard
-
-![Buyer Dashboard](screenshots/buyer-dashboard.png)
-
-### Seller Dashboard
-
-![Seller Dashboard](screenshots/seller-dashboard.png)
-
-### Admin Dashboard
-
-![Admin Dashboard](screenshots/admin-dashboard.png)
-
 ---
 
 ## 🔮 Future Improvements
@@ -325,7 +302,7 @@ Computer Science & Engineering Student
 * Admin Dashboard Development
 * Testing & Documentation
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/tanvir-50198
 
 ---
 
